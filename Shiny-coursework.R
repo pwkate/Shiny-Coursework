@@ -4,7 +4,7 @@ library(gapminder)
 library(ggthemes)
 library(kableExtra)
 
-# Define UI for application that draws a histogram
+# Define UI for application
 ui <- fluidPage(
 
     # Application title
